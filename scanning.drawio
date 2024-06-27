@@ -1,0 +1,45 @@
+<mxfile host="app.diagrams.net" modified="2024-06-13T02:41:08.632Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36" etag="GwdhCwnxrwIPW3sX8UsA" version="24.4.2" type="device">
+  <diagram name="Page-1" id="9NaVvhBKBp2BOk0iyyVQ">
+    <mxGraphModel dx="1050" dy="583" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="Dyn9XvZa2uSqYTk5as4q-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="70" y="210" width="210" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Dyn9XvZa2uSqYTk5as4q-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dyn9XvZa2uSqYTk5as4q-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Dyn9XvZa2uSqYTk5as4q-1" value="&lt;b&gt;Scanner Server&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="280" y="80" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Dyn9XvZa2uSqYTk5as4q-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Dyn9XvZa2uSqYTk5as4q-2" target="Dyn9XvZa2uSqYTk5as4q-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dyn9XvZa2uSqYTk5as4q-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="Dyn9XvZa2uSqYTk5as4q-2" target="Dyn9XvZa2uSqYTk5as4q-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Dyn9XvZa2uSqYTk5as4q-2" value="&lt;b&gt;Agent&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="190" y="240" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Dyn9XvZa2uSqYTk5as4q-4" value="&lt;b&gt;Jenkins Agent&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="60" y="210" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dyn9XvZa2uSqYTk5as4q-5" value="&lt;b&gt;Code&lt;/b&gt;" style="shape=hexagon;perimeter=hexagonPerimeter2;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="260" width="70" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dyn9XvZa2uSqYTk5as4q-6" value="&lt;b&gt;CLI&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="210" y="320" width="40" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Dyn9XvZa2uSqYTk5as4q-9" value="&lt;b&gt;analyse the report&lt;/b&gt;&lt;div&gt;&lt;b&gt;take the decission&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="350" y="140" width="130" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Dyn9XvZa2uSqYTk5as4q-11" value="&lt;b&gt;pass the build&lt;/b&gt;&lt;div&gt;&lt;b&gt;fail the build&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="90" y="120" width="100" height="40" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
